@@ -1,0 +1,20 @@
+# نظام التشغيل / المحرر
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# بيئة Node (عند إضافة /server لاحقًا)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+.env.local
+
+# ملفات بناء محتملة
+dist/
+build/
+
+# لا تضع أبدًا أي ملف يحتوي على مفاتيح حقيقية
+*.key
+secrets.json
