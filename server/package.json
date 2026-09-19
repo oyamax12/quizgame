@@ -1,0 +1,15 @@
+{
+  "name": "faisal-quiz-server",
+  "version": "1.0.0",
+  "description": "خادم اللعب الجماعي (Rooms) وOnline 1v1 والمتصدرين العالميين للعبة فيصل",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
